@@ -1,8 +1,9 @@
-body {
+body.Information.BigMomma.html {
 background-image: url(cuteBigga.JPG);
 background-attachment: fixed;
 background-size:1746px 1080px;
 }
+
 h1 {
     color: white;
     text-align: center;
@@ -16,4 +17,12 @@ h2 {
 p{
   color:darkred;
   text-align: justify;
+}
+
+#bijzonder {
+  background-color: blue;
+}
+
+.bij2 {
+    background-color:grey;
 }
