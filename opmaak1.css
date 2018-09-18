@@ -1,4 +1,4 @@
-body.Information.BigMomma.html {
+body {
 background-image: url(cuteBigga.JPG);
 background-attachment: fixed;
 background-size:1746px 1080px;
@@ -19,10 +19,10 @@ p{
   text-align: justify;
 }
 
-#bijzonder {
-  background-color: blue;
+.tabel {
+  background-color: green;
 }
 
 .bij2 {
-    background-color:grey;
+    background-color: grey;
 }
